@@ -30,7 +30,7 @@ A2 = D4 + D5 + D6 + D7
 
 Logical circuit of the above expressions is given below:
 
-![image](https://github.com/user-attachments/assets/a420b3d4-af6d-42ef-a8e5-6ab1a2735298)
+![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/95acaee6-c873-4c75-89eb-ef09fb158053)
 
 Figure 02  Encoder 8 * 3
 
